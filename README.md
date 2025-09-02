@@ -9,17 +9,22 @@ A full-stack application implementing a connection request system and real-time 
 - **Connection Requests**: Send, accept, and reject connection requests
 - **Status Tracking**: Track pending, accepted, and rejected requests
 - **Database Schema**: Complete SQLAlchemy models with proper relationships
+<img width="1920" height="1200" alt="Screenshot from 2025-09-02 17-24-03" src="https://github.com/user-attachments/assets/cf519adb-ddf6-4b2a-93ea-32ee6bde1bbe" />
 
 ### Task 2 - Real-time Chat
 - **WebSocket Integration**: Real-time bidirectional messaging
 - **Message Persistence**: Chat history stored in database
 - **Connection Validation**: Only connected users can chat
 - **Live Status**: Real-time connection status indicators
+<img width="1926" height="1153" alt="Screenshot from 2025-09-02 17-23-43" src="https://github.com/user-attachments/assets/83780077-8f2b-4684-a3e2-77f4b9959fcb" />
+
 
 ### Bonus Features
 - **Notification System**: Real-time notifications for requests and messages
 - **React Frontend**: Complete testing interface
 - **Professional UI**: Modern design with responsive layout
+<img width="1920" height="1048" alt="Screenshot from 2025-09-02 17-23-09" src="https://github.com/user-attachments/assets/19f1cb25-9dfc-420d-ad68-f8be98541476" />
+
 
 ## 🛠 Tech Stack
 
