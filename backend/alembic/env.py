@@ -7,7 +7,7 @@ from alembic import context
 
 from app.core.database import Base
 # Import all models so Alembic can detect them
-from app.models import User, ConnectionRequest
+from app.models import User, ConnectionRequest, Message
 
 import os
 from dotenv import load_dotenv
